@@ -38,4 +38,4 @@ Faculty of Computer Engineering, Department of Information Technology
 **City:** Kyiv
 
 ## Example of my work
-https://rolling-scopes-school.github.io/armind04-JSFE2021Q1/online-zoo/
+[https://rolling-scopes-school.github.io/armind04-JSFE2021Q1/online-zoo/](https://rolling-scopes-school.github.io/armind04-JSFE2021Q1/online-zoo/)
