@@ -17,3 +17,25 @@
 **July 2014: M.S. in Computer Science**, *National Aviation University*
 
 Faculty of Computer Engineering, Department of Information Technology 
+
+## Technical skills 
+**Programming language:** JavaScript, ES6, SQL
+
+**Technologies:** Web API, SOAP, REST, Amazon WS, JSON, SQL Server, HTML, CSS, SASS, Webpack
+
+**Operating systems:** Corezoid, Unix-based systems basics, Windows 7/8/10
+
+**Development tools:** SoapUI, Postman, Sublime Text, Git, Firebase, Prepros, Figma, Photoshop, Avocode
+
+## Foreign language skills 
+**English:** Upper-Intermediate 
+
+**Ukrainian:** fluent
+
+## Personal details
+**Date of birth:** 04.08.1990
+
+**City:** Kyiv
+
+## Example of my work
+https://rolling-scopes-school.github.io/armind04-JSFE2021Q1/online-zoo/
