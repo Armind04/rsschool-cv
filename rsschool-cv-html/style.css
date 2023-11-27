@@ -230,3 +230,38 @@ a:hover {
     color: #fff;
     font-size: 20px;
   }
+
+  .main {
+    padding: 25px 50px;
+  }
+  .main p {
+    margin-bottom: 18px;
+    line-height: 1.5;
+  }
+  .main__title {
+    color: #43a3ef;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  .main__title__wrapper {
+    margin-bottom: 20px;
+  }
+  .main__title__wrapper i {
+    color: #fff;
+    font-size: 20px;
+  }
+  .main__description {
+    margin-bottom: 30px;
+  }
+  .main__description--bld {
+    font-weight: bold;
+  }
+  .main__description--itc {
+    font-style: italic;
+  }
+  
+  .icon__wrapper--big {
+    width: 33px;
+    height: 33px;
+  }
