@@ -191,3 +191,42 @@ a:hover {
   display: flex;
   margin-bottom: 20px;
 }
+
+
+.article {
+    display: flex;
+    width: 35%;
+    flex-direction: column;
+    background: #e6e6e6;
+    padding: 25px 30px 0 60px;
+  }
+  .article__block {
+    margin-bottom: 80px;
+  }
+  .article__title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #43a3ef;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+  }
+  .article__hobbies i {
+    color: #fff;
+    font-size: 20px;
+  }
+  .article__hobbies .icon__wrapper {
+    margin: 0 35px 30px 0;
+  }
+  
+  .profile__text {
+    text-align: justify;
+    line-height: 1.5;
+  }
+  
+  .contact__item {
+    margin-bottom: 20px;
+  }
+  .contact__item i {
+    color: #fff;
+    font-size: 20px;
+  }
