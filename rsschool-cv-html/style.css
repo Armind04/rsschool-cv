@@ -265,3 +265,27 @@ a:hover {
     width: 33px;
     height: 33px;
   }
+
+  .footer {
+    display: flex;
+    padding: 10px 60px;
+    justify-content: space-between;
+    background: #e6e6e6;
+    align-items: center;
+  }
+  .footer .header__subtitle {
+    margin-bottom: 0px;
+  }
+  .footer .sml__icon {
+    font-size: 14px;
+  }
+  .footer i {
+    color: #fff;
+  }
+  
+  .img__wrapper {
+    width: 200px;
+  }
+  .img__wrapper img {
+    width: 100%;
+  }
